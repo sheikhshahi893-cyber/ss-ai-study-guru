@@ -1,0 +1,6 @@
+{
+  "name": "S.S AI Study Guru",
+  "description": "An all-in-one educational and multi-department professional workspace featuring S.S AI Study Guru chat, Revenue & Land Records Hub, Teachers Exam Generator, Banking EMI/Notices, Legal Affidavits, PDF/Image homework scanner, auto-flashcards, math formula sheet, essay evaluator, and multilingual voice assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

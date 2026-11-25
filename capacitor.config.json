@@ -1,0 +1,14 @@
+{
+  "appId": "com.ss.aistudyguruapp",
+  "appName": "S.S AI Study Guru",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "AdMob": {
+      "appId": "ca-app-pub-4927952652296520~2672176583"
+    }
+  }
+}

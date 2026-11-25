@@ -1,0 +1,16 @@
+# Dependencies & Build Outputs
+node_modules/
+dist/
+build/
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Editor & Platform Cache
+.aistudio/
+.DS_Store
+*.log
+*.zip

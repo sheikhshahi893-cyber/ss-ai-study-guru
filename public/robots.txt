@@ -1,0 +1,10 @@
+# S.S AI Study Guru Robots.txt
+# Founded by Shahid Ahmad Sheikh
+
+User-agent: *
+Allow: /
+Allow: /privacy.html
+Allow: /offline.html
+Allow: /manifest.json
+
+Sitemap: https://ais-pre-cqjoslgmfrp2kmw5wsmbit-633475377769.asia-southeast1.run.app/sitemap.xml

@@ -1,0 +1,24 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ss.aistudyguruapp",
+      "sha256_cert_fingerprints": [
+        "E6:63:E1:53:6D:F8:EC:4D:2C:BD:B5:A2:3D:57:2F:90:42:82:64:37:12:91:2C:5B:1B:C6:E0:43:85:3D:7C:22",
+        "14:6D:E9:7F:0F:52:EA:CB:58:3B:56:88:51:7A:B7:AE:E3:6B:4C:BA:FE:0C:44:8D:19:D4:56:32:0A:79:BD:05"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ssstudyguru.app",
+      "sha256_cert_fingerprints": [
+        "E6:63:E1:53:6D:F8:EC:4D:2C:BD:B5:A2:3D:57:2F:90:42:82:64:37:12:91:2C:5B:1B:C6:E0:43:85:3D:7C:22",
+        "14:6D:E9:7F:0F:52:EA:CB:58:3B:56:88:51:7A:B7:AE:E3:6B:4C:BA:FE:0C:44:8D:19:D4:56:32:0A:79:BD:05"
+      ]
+    }
+  }
+]
